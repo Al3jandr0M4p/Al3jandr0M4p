@@ -35,29 +35,6 @@
 
 ---
 
-## 🌟 Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **FoodTruck App** | Gestión de pedidos con IA, reportes y pagos integrados | Flask, Python, JS, HTML |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al3jandr0M4p&show_icons=true&theme=tokyonight&hide=stars" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3jandr0M4p&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
-## 🔥 Actividad reciente
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Al3jandr0M4p&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 > "El codigo es como el humor. Si tenes que explicarlo, es malo." - Cory House
 
 <!---
