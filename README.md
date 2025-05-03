@@ -2,7 +2,7 @@
 
 ![Perfil GitHub](https://img.shields.io/badge/GitHub-Al3jandr0M4p-181717?style=flat&logo=github)
 ![Lenguajes](https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20Java-blue?style=flat)
-![Aprendiendo](https://img.shields.io/badge/Aprendiendo-React%20Native%20%7C%20FastAPI-brightgreen)
+![Aprendiendo](https://img.shields.io/badge/Aprendiendo-React%20Native%20%7C%20Flask-brightgreen)
 ![Edad](https://img.shields.io/badge/Edad-16%20a%C3%B1os-blueviolet)
 ![Pronombres](https://img.shields.io/badge/Pronombres-el%2Fhe-informational)
 
