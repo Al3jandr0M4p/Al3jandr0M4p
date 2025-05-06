@@ -8,7 +8,7 @@
 
 ---
 
-- 🧠 Tengo 16 años y me apasione la **ciberseguridad**, el **desarrollo web** y el **haching etico**.
+- 🧠 Tengo 17 años y me apasione la **ciberseguridad**, el **desarrollo web** y el **haching etico**.
 - 🌱 Actualmente estoy aprendiendo **Python (avanzado)**, **Flask**, **Java**, **JavaScript** y **React**.
 - 💻 Desarrollo aplicaciones full-stack con funciones como **integracion de IA**, **reportes automatizados** y **sistemas de pagos**.
 - 🧑‍💻 Practico con **Kali Linux**, **Maquinas Vulnerables** para mejorar mis habilidades de hacking.
