@@ -8,14 +8,12 @@
 
 ---
 
-- 🧠 Tengo 17 años y me apasione la **ciberseguridad**, el **desarrollo web** y el **hacking etico**.
-- 🌱 Actualmente estoy aprendiendo **Python (avanzado)**, **Flask**, **Java**, **JavaScript** y **React**.
+- 🧠 Tengo 17 años y me apasione la **ciberseguridad**, el **desarrollo web** y el **haching etico**.
+- 🌱 Actualmente estoy aprendiendo **C/C++**.
 - 💻 Desarrollo aplicaciones full-stack con funciones como **integracion de IA**, **reportes automatizados** y **sistemas de pagos**.
-- 🧑‍💻 Practico con **Kali Linux**, **Maquinas Vulnerables** para mejorar mis habilidades de hacking.
-- 🎯 Mi meta es convertirme en **desarrollador web profesional** e **investigador en seguridad**.
+- 🎯 Mi meta es convertirme en **desarrollador web profesional** e **Pentester**.
 - 🤝 Busco colaborar en proyectos relaciones con **Python**, **JavaScript**, **IA** o **CiberSeguridad**.
 - 📫 Podes contactarme por [Instagram](https://www.instagram.com/im_encarnacion/) o al correo molle0711@gmail.com.
-- ⚡ Dato curioso: Me gusta crear sistemas que piensen mas de lo que aparentan 😉
 - 😄 Pronombres: el/he
 
 ---
@@ -35,7 +33,7 @@
 
 ---
 
-> "El codigo es como el humor. Si tenes que explicarlo, es malo." - Cory House
+> "El codigo es como el humor. Si tenes que explicarlo, es malo. 😂" - Cory House
 
 <!---
 Al3jandr0M4p/Al3jandr0M4p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
