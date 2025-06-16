@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Alejandro
 
 
-[note success]
+> [!note success]
 > "El codigo es como el humor. Si tenes que explicarlo, es malo. 😂" - Cory House
 
 <!---
