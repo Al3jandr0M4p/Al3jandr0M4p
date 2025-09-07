@@ -2,7 +2,7 @@
 
 
 > [!tip]
-> "El codigo es como el humor. Si tenes que explicarlo, es malo. 😂" - Cory House
+> "El codigo es como el humor. Si tenes que explicarlo, es malo." - Cory House
 
 <!---
 Al3jandr0M4p/Al3jandr0M4p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
