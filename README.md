@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Alejandro
-Desarrollador Full Stack enfocado en aplicaciones web, móviles y software escalable y bien estructurado y optimizados.
+Desarrollador Full Stack enfocado en aplicaciones web, móviles y software escalables, estructurados y optimizados.
 Me interesa crear productos reales, escalables y bien estructurados.
 
 ---
