@@ -11,10 +11,11 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-181717?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=for-the-badge&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Node.js-181717?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-181717?style=for-the-badge&logo=androidstudio)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-181717?style=for-the-badge&logo=kotlin)
 ![Supabase](https://img.shields.io/badge/-Supabase-181717?style=for-the-badge&logo=supabase)
+![MySQL](https://img.shields.io/badge/-MySQL-181717?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=for-the-badge&logo=mongodb)
 
 ---
 
