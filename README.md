@@ -1,4 +1,7 @@
 # 👋 ¡Hola! Soy Alejandro
+Desarrollador Full Stack enfocado en aplicaciones web y móviles.
+Me interesa crear productos reales, escalables y bien estructurados.
+Actualmente aprendiendo arquitectura, seguridad, DevOps y testing.
 
 ---
 
@@ -23,6 +26,10 @@
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3jandr0M4p&show_icons=true&theme=github_dark)
+
 
 > [!tip]
 > "El codigo es como el humor. Si tenes que explicarlo, es malo." - Cory House
