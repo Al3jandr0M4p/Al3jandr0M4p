@@ -1,10 +1,11 @@
 # 👋 ¡Hola! Soy Alejandro
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreapollastri/eyes-animation-svg/main/eyes.svg" width="120" />
-</p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&vCenter=true&width=800&lines=Desarrollador+Full+Stack+Web+y+Mobile;Backend+y+Frontend+con+buenas+pr%C3%A1cticas;Software+escalable%2C+optimizado+y+estructurado;Creando+productos+reales+listos+para+producci%C3%B3n)](https://git.io/typing-svg)
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=Desarrollador+Full+Stack+Web+y+Mobile;Backend+y+Frontend+con+buenas+pr%C3%A1cticas;Software+escalable%2C+optimizado+y+estructurado;Creando+productos+reales+listos+para+producci%C3%B3n"
+    style="max-width:100%; height:auto;"
+  />
+</div>
 
 Desarrollador Full Stack enfocado en aplicaciones web y móviles,
 con interés en software escalable, optimizado y bien estructurado.
