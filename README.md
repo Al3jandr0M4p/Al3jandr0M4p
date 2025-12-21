@@ -7,10 +7,13 @@
   />
 </div>
 
-Desarrollador Full Stack enfocado en aplicaciones web y móviles,
-con interés en software escalable, optimizado y bien estructurado.
-Me gusta trabajar con arquitecturas modernas, buenas prácticas
+<p align="center">
+Desarrollador Full Stack enfocado en aplicaciones web y móviles,<br>
+con interés en software escalable, optimizado y bien estructurado.<br>
+Me gusta trabajar con arquitecturas modernas, buenas prácticas<br>
 y crear productos reales listos para producción.
+</p>
+
 
 ---
 
