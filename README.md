@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Alejandro
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Al3jandr0M4p&label=Profile%20views&color=0D1117&style=for-the-badge" alt="profile views" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&vCenter=true&width=800&lines=Desarrollador+Full+Stack+Web+y+Mobile;Backend+y+Frontend+con+buenas+pr%C3%A1cticas;Software+escalable%2C+optimizado+y+estructurado;Creando+productos+reales+listos+para+producci%C3%B3n)](https://git.io/typing-svg)
 
 Desarrollador Full Stack enfocado en aplicaciones web y móviles,
@@ -13,9 +17,9 @@ y crear productos reales listos para producción.
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
@@ -31,6 +35,7 @@ y crear productos reales listos para producción.
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
