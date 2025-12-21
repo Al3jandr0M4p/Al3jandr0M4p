@@ -1,8 +1,11 @@
 # 👋 ¡Hola! Soy Alejandro
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Aplicaciones+Web+y+M%C3%B3viles;Software+escalable+y+bien+estructurado;Creando+productos+reales)](https://git.io/typing-svg)
 
-Desarrollador Full Stack enfocado en aplicaciones web, móviles y software escalables, estructurados y optimizados.
-Me interesa crear productos reales, escalables y bien estructurados.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&vCenter=true&width=800&lines=Desarrollador+Full+Stack+Web+y+Mobile;Backend+y+Frontend+con+buenas+pr%C3%A1cticas;Software+escalable%2C+optimizado+y+estructurado;Creando+productos+reales+listos+para+producci%C3%B3n)](https://git.io/typing-svg)
+
+Desarrollador Full Stack enfocado en aplicaciones web y móviles,
+con interés en software escalable, optimizado y bien estructurado.
+Me gusta trabajar con arquitecturas modernas, buenas prácticas
+y crear productos reales listos para producción.
 
 ---
 
