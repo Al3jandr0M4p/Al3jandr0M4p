@@ -21,18 +21,14 @@
   />
 </div>
 
-Desarrollador Full Stack con enfoque en la construcción de aplicaciones web y móviles
-orientadas a producción real. Trabajo tanto en backend como frontend,
-priorizando arquitectura limpia, escalabilidad, rendimiento y seguridad.
+Desarrollador Full Stack enfocado en sistemas web y móviles listos para producción.
+Trabajo en backend y frontend con una visión integral del producto,
+desde el diseño de la arquitectura hasta la entrega final.
 
-Diseño e implemento APIs REST bien estructuradas, manejo bases de datos
-relacionales y no relacionales, y construyo flujos de autenticación y autorización
-seguros. En frontend desarrollo interfaces mantenibles, enfocadas en experiencia
-de usuario y consumo eficiente de APIs.
-
-Me interesa crear software que pueda crecer sin degradarse,
-reducir deuda técnica y mantenerse a largo plazo mediante buenas prácticas,
-documentación clara y decisiones técnicas conscientes.
+Tengo experiencia construyendo APIs REST, gestionando persistencia de datos,
+implementando autenticación, y desarrollando interfaces desacopladas y mantenibles.
+Priorizo rendimiento, seguridad, escalabilidad y claridad en el código,
+pensando siempre en la evolución futura del sistema.
 
 ---
 
