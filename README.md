@@ -79,6 +79,14 @@ y crear productos reales listos para producción.
 
 <img src="https://raw.githubusercontent.com/Al3jandr0M4p/Al3jandr0M4p/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Al3jandr0M4p&show_icons=true&theme=github_dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3jandr0M4p&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</div>
+
+
 
 > [!tip]
 > "El codigo es como el humor. Si tenes que explicarlo, es malo." - Cory House
