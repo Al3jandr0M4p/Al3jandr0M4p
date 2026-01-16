@@ -40,8 +40,9 @@ y crear productos reales listos para producción.
 
 ---
 
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Al3jandr0M4p&show_icons=true&theme=github_dark)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 > [!tip]
