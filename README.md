@@ -21,10 +21,18 @@
   />
 </div>
 
-Desarrollador Full Stack enfocado en aplicaciones web y móviles,
-con interés en software escalable, optimizado y bien estructurado.<br>
-Me gusta trabajar con arquitecturas modernas, buenas prácticas
-y crear productos reales listos para producción.
+Desarrollador Full Stack con enfoque en la construcción de aplicaciones web y móviles
+orientadas a producción real. Trabajo tanto en backend como frontend,
+priorizando arquitectura limpia, escalabilidad, rendimiento y seguridad.
+
+Diseño e implemento APIs REST bien estructuradas, manejo bases de datos
+relacionales y no relacionales, y construyo flujos de autenticación y autorización
+seguros. En frontend desarrollo interfaces mantenibles, enfocadas en experiencia
+de usuario y consumo eficiente de APIs.
+
+Me interesa crear software que pueda crecer sin degradarse,
+reducir deuda técnica y mantenerse a largo plazo mediante buenas prácticas,
+documentación clara y decisiones técnicas conscientes.
 
 ---
 
