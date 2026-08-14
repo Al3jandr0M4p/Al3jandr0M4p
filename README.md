@@ -22,9 +22,12 @@
 </div>
 
 Full Stack Developer focused on production-ready web and mobile systems.
-I work on both backend and frontend with a holistic view of the product, from architecture design to final delivery.
-I have experience building REST APIs, managing data persistence, implementing authentication, and developing decoupled and maintainable interfaces.
-I prioritize performance, security, scalability, and code clarity, always considering the future evolution of the system.
+I work on both backend and frontend with a holistic view of the product, 
+from architecture design to final delivery.
+I have experience building REST APIs, managing data persistence, 
+implementing authentication, and developing decoupled and maintainable interfaces.
+I prioritize performance, security, scalability, and code clarity, 
+always considering the future evolution of the system.
 
 ---
 
