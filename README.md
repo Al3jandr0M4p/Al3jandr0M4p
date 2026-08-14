@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alejandro
+# 👋 ¡Hello! I'm Alejandro
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -21,14 +21,16 @@
   />
 </div>
 
-Desarrollador Full Stack enfocado en sistemas web y móviles listos para producción.
-Trabajo en backend y frontend con una visión integral del producto,
-desde el diseño de la arquitectura hasta la entrega final.
+Full Stack Developer focused on production-ready web and mobile systems.
 
-Tengo experiencia construyendo APIs REST, gestionando persistencia de datos,
-implementando autenticación, y desarrollando interfaces desacopladas y mantenibles.
-Priorizo rendimiento, seguridad, escalabilidad y claridad en el código,
-pensando siempre en la evolución futura del sistema.
+I work on both backend and frontend with a holistic view of the product,
+from architecture design to final delivery.
+
+I have experience building REST APIs, managing data persistence,
+implementing authentication, and developing decoupled and maintainable interfaces.
+
+I prioritize performance, security, scalability, and code clarity,
+always considering the future evolution of the system.
 
 ---
 
